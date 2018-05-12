@@ -1,0 +1,36 @@
+_repo: The-Land-of-Fire--A-Tale-of-Adventure_25203
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reid, Mayne
+    aliases:
+    - Mayne-Reid, Captain
+    - Reid, Thomas Mayne
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '6260'
+    url: http://www.gutenberg.org/2009/agents/6260
+    wikipedia: http://en.wikipedia.org/wiki/Mayne_Reid
+description: ''
+gutenberg_issued: '2008-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25203'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Castaways -- Juvenile fiction'
+- !lcsh 'Seafaring life -- Juvenile fiction'
+- !lcsh 'Fuegians -- Juvenile fiction'
+- !lcsh 'Rescues -- Juvenile fiction'
+- !lcsh 'Shipwrecks -- Juvenile fiction'
+- !lcsh 'Tierra del Fuego (Argentina and Chile) -- Juvenile fiction'
+- !lcsh 'Sailors -- Juvenile fiction'
+title: 'The Land of Fire: A Tale of Adventure'
+url: http://www.gutenberg.org/ebooks/25203
